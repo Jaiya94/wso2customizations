@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>JWTTokenIssuer</module>
+        <module>BackendJWTGenerator</module>
     </modules>
 
     <repositories>

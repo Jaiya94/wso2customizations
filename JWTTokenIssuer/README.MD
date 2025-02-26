@@ -15,3 +15,6 @@ issuer="com.wso2customizations.JWTTokenIssuer.ExtendedJWTTokenIssuer"
 ```
 
 3. Restart the WSO2 Server.
+
+Please note that this sample is built and tested for WSO2 IS 5.11.0.
+You will have to change the dependencies based on the WSO2 product version that you are using.
