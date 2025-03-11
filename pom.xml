@@ -11,6 +11,7 @@
     <modules>
         <module>JWTTokenIssuer</module>
         <module>BackendJWTGenerator</module>
+        <module>CustomSynapseHandler</module>
     </modules>
 
     <repositories>
